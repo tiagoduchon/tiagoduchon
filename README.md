@@ -8,7 +8,7 @@
 
 📍 Santa Fe, Argentina · 🌍 Open to remote opportunities
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:tiagoduchon@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:tiagodduchon@gmail.com)
 
 </div>
 
