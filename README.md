@@ -72,7 +72,7 @@ Currently studying · Expected graduation: **2027**
 
 I'm open to **remote junior opportunities** in software development, AI automation, and API integrations.
 
-📧 **Email:** [tiagoduchon@gmail.com](mailto:tiagoduchon@gmail.com)  
+📧 **Email:** [tiagodduchon@gmail.com](mailto:tiagoduchon@gmail.com)  
 🔗 **GitHub:** [github.com/tiagoduchon](https://github.com/tiagoduchon)
 
 ---
